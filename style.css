@@ -6,3 +6,7 @@ body {
     width: 100px;
     height: auto; 
 }
+
+.footer{
+    align-items: center;
+}
