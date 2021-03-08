@@ -10,3 +10,7 @@ body {
 .footer{
     align-items: center;
 }
+
+ul li{
+    display: inline;
+}
